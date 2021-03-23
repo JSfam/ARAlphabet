@@ -1,0 +1,681 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 14,
+      "max": [
+        0.031936511397361755,
+        0.8270639181137085,
+        0.031936503946781158
+      ],
+      "min": [
+        -0.031936474144458771,
+        0.085894040763378143,
+        -0.031936515122652054
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 168,
+      "componentType": 5126,
+      "count": 14,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -4.6722810509436385e-08,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 14,
+      "max": [
+        0.57738161087036133,
+        0.81652408838272095,
+        1,
+        -1
+      ],
+      "min": [
+        -0.57731777429580688,
+        5.4786928558314685e-06,
+        -0.57738029956817627,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 14,
+      "max": [
+        0.5076097846031189,
+        0.9207381010055542
+      ],
+      "min": [
+        0.11415179818868637,
+        0.32565000653266907
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 30,
+      "max": [
+        13
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 336,
+      "componentType": 5126,
+      "count": 1467,
+      "max": [
+        1.2828272581100464,
+        3.9912900924682617,
+        1.2179410457611084
+      ],
+      "min": [
+        -1.2828272581100464,
+        -4.0045323371887207,
+        -0.86560988426208496
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 17940,
+      "componentType": 5126,
+      "count": 1467,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 224,
+      "componentType": 5126,
+      "count": 1467,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 112,
+      "componentType": 5126,
+      "count": 1467,
+      "max": [
+        0.99009674787521362,
+        0.99819177389144897
+      ],
+      "min": [
+        0.0013212017947807908,
+        0.00049891683738678694
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 120,
+      "componentType": 5125,
+      "count": 3954,
+      "max": [
+        1466
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 35544,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.23686164617538452,
+        0.25992169976234436,
+        0.48559147119522095
+      ],
+      "min": [
+        -0.2387552410364151,
+        -0.16173931956291199,
+        -2.384185791015625e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 36744,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.96170568466186523,
+        0.90875166654586792,
+        1
+      ],
+      "min": [
+        -0.97336012125015259,
+        -0.86602538824081421,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 23696,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.86602681875228882,
+        0.97962892055511475,
+        0.49222716689109802,
+        1
+      ],
+      "min": [
+        -0.96592593193054199,
+        -0.97331607341766357,
+        -0.9514506459236145,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11848,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.16861642897129059,
+        0.95756745338439941
+      ],
+      "min": [
+        0.0025569701101630926,
+        0.0024372236803174019
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 15936,
+      "componentType": 5125,
+      "count": 222,
+      "max": [
+        99
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 37944,
+      "componentType": 5126,
+      "count": 108,
+      "max": [
+        0.073035955429077148,
+        0.96166062355041504,
+        0.61265170574188232
+      ],
+      "min": [
+        -0.073035955429077148,
+        -0.4988219141960144,
+        -1.5263911485671997
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 39240,
+      "componentType": 5126,
+      "count": 108,
+      "max": [
+        1,
+        0.9999854564666748,
+        1
+      ],
+      "min": [
+        -1,
+        -0.9981999397277832,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 25296,
+      "componentType": 5126,
+      "count": 108,
+      "max": [
+        0.72814202308654785,
+        0.7229962944984436,
+        0.79105252027511597,
+        1
+      ],
+      "min": [
+        -0.72620683908462524,
+        -0.84664803743362427,
+        -0.99997919797897339,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12648,
+      "componentType": 5126,
+      "count": 108,
+      "max": [
+        0.49532967805862427,
+        0.97788286209106445
+      ],
+      "min": [
+        0.0018334822962060571,
+        0.062828071415424347
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 16824,
+      "componentType": 5125,
+      "count": 228,
+      "max": [
+        107
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Wintermute (https://sketchfab.com/wintermute666)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/26ft-whaleboat-low-poly-7b68d71504ac4b4cb67b34db7c911233",
+      "title": "26ft. Whaleboat (Low Poly)"
+    },
+    "generator": "Sketchfab-5.64.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 17736,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13512,
+      "byteOffset": 17736,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 40536,
+      "byteOffset": 31248,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27024,
+      "byteOffset": 71784,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 98808,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Whaleboat_baseColor.png"
+    },
+    {
+      "uri": "textures/Whaleboat_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Whaleboat_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Whaleboat",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "LP_Lever_Whaleboat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "LP_Hull_Whaleboat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "LP_Propeller_Whaleboat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "LP_Tail_Whaleboat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "015613009c724c8681668ea0884e9f16.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8,
+        10
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        99.999999999999901,
+        4.371138828673792e-06,
+        0,
+        0,
+        -4.371138828673792e-06,
+        99.999999999999901,
+        0,
+        5.9604644775390625e-06,
+        -21.960296630859375,
+        103.39990997314453,
+        1
+      ],
+      "name": "LP_Lever"
+    },
+    {
+      "mesh": 0,
+      "name": "LP_Lever_Whaleboat_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        -1.6292067939183141e-05,
+        -99.999999999998678,
+        0,
+        0,
+        99.999999999998678,
+        -1.6292067939183141e-05,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "LP_Hull"
+    },
+    {
+      "mesh": 1,
+      "name": "LP_Hull_Whaleboat_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        88.526004837829547,
+        -46.509622032152947,
+        -2.0330002795590774e-06,
+        0,
+        46.509622032152997,
+        88.52600483782949,
+        3.3030450519349643e-06,
+        0,
+        2.6350019683581153e-07,
+        -3.8695951588605175e-06,
+        99.999999999999929,
+        0,
+        2.5950291728804586e-06,
+        -48.566764831542969,
+        332.37301635742188,
+        1
+      ],
+      "name": "LP_Propeller"
+    },
+    {
+      "mesh": 2,
+      "name": "LP_Propeller_Whaleboat_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        100,
+        2.9234223412703693e-16,
+        -1.9243652555055812e-18,
+        0,
+        -3.7130392081812905e-17,
+        12.04753853042787,
+        -99.271631473235374,
+        0,
+        -2.8998106665759184e-16,
+        99.271631473235374,
+        12.04753853042787,
+        0,
+        1.3680312240557484e-14,
+        62.933601379394531,
+        398.73300170898438,
+        1
+      ],
+      "name": "LP_Tail"
+    },
+    {
+      "mesh": 3,
+      "name": "LP_Tail_Whaleboat_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
