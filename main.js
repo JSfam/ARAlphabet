@@ -127,6 +127,7 @@ var data = [
   {
     id: 13,
     title: "M",
+    assetId: "monkey_asset",
     description: "Monkey",
     objAsset: "monkey_asset_obj",
     mtlAsset: "monkey_asset_mtl",
@@ -258,10 +259,9 @@ var data = [
   {
     id: 25,
     title: "Y",
-    description: "Yolk",
-    objAsset: "yolk_asset_obj",
-    mtlAsset: "yolk_asset_mtl",
-    scale: "0.03 0.03 0.03",
+    description: "Yacht",
+    assetId: "yacth_asset",
+    scale: "0.01 0.01 0.01",
     scaleOne: "0.05 0.05 0.05",
     scaleTwo: "0.07 0.07 0.07",
     isObj: true,

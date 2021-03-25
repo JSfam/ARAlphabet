@@ -128,6 +128,11 @@
           id="lion_asset"
           src="assets/lion/scene.gltf"
         ></a-asset-item>
+
+        <a-asset-item
+          id="monkey_asset"
+          src="assets/monkey/scene.gltf"
+        ></a-asset-item>
         <a-asset-item
           id="monkey_asset_obj"
           src="https://raw.githubusercontent.com/prashant-andani/3d-models/master/monkey/Monkey.obj"
@@ -211,12 +216,17 @@
           src="https://raw.githubusercontent.com/prashant-andani/3d-models/master/xmas/materials.mtl"
         ></a-asset-item>
         <a-asset-item
-          id="yolk_asset_obj"
-          src="https://raw.githubusercontent.com/prashant-andani/3d-models/master/yolk/UncrackedEgg_239.obj"
+          id="yoyo_obj"
+          src="assets/yoyo/11713_yo-yo_v1_L3.obj"
         ></a-asset-item>
         <a-asset-item
-          id="yolk_asset_mtl"
-          src="https://raw.githubusercontent.com/prashant-andani/3d-models/master/yolk/UncrackedEgg_239.mtl"
+          id="yoyo_mtl"
+          src="assets/yoyo/11713_yo-yo_v1_L3.mtl"
+        ></a-asset-item>
+
+        <a-asset-item
+          id="yacth_asset"
+          src="assets/yate/scene.gltf"
         ></a-asset-item>
         <a-asset-item
           id="zebra_asset_obj"
@@ -392,8 +402,8 @@
       >
         <a-entity
           gltf-model="#lion_asset"
-          scale=" 0.7 0.7 0.7"
-          position=" 1 1 1"
+          scale="1.5 1.5 1.5"
+          position=" 0.1 0.1 0.1"
           light="type: hemisphere; color: #fefddd; groundColor: #fefddd; intensity: 2.2"
         ></a-entity>
       </a-marker>
@@ -405,8 +415,9 @@
         url="marker/pattern-markerM.patt"
       >
         <a-entity
-          obj-model="obj: #monkey_asset_obj; mtl: #monkey_asset_mtl"
-          scale="0.3 0.3 0.3"
+          gltf-model="#monkey_asset"
+          rotation="0 180 0"
+          scale="0.9 0.9 0.9"
           position=" 0.1 0.1 0.1"
           light="type: hemisphere; color: #fefddd; groundColor: #fefddd; intensity: 2.2"
         ></a-entity>
@@ -420,7 +431,7 @@
       >
         <a-entity
           obj-model="obj: #nest_asset_obj; mtl: #nest_asset_mtl"
-          scale="0.5 0.5 0.5"
+          scale="0.8 0.8 0.8"
           position=" 0.1 0.1 0.1"
           light="type: hemisphere; color: #fefddd; groundColor: #fefddd; intensity: 1.2"
         ></a-entity>
@@ -434,6 +445,7 @@
       >
         <a-entity
           obj-model="obj: #octopus_asset_obj; mtl: #octopus_asset_mtl"
+          rotation="0 180 0"
           scale="1 1 1"
           position=" 0.1 0.1 0.1"
           light="type: hemisphere; color: #fefddd; groundColor: #fefddd; intensity: 1.2"
@@ -448,8 +460,7 @@
       >
         <a-entity
           gltf-model="#parrot_asset"
-          scale="5 5 5"
-          position=" 0.1 0.1 0.001"
+          scale="7 7 7"
           light="type: hemisphere; color: #fefddd; groundColor: #fefddd; intensity: 1.2"
         ></a-entity>
       </a-marker>
@@ -476,6 +487,7 @@
       >
         <a-entity
           gltf-model="#rat_asset"
+          scale="0.3 0.3 0.3"
           position=" 0.1 0.1 0.1"
           light="type: hemisphere; color: #fefddd; groundColor: #fefddd; intensity: 1.2"
         ></a-entity>
@@ -489,7 +501,7 @@
       >
         <a-entity
           gltf-model="#snake_asset"
-          scale="0.01 0.01 0.01"
+          scale="0.03 0.03 0.03"
           position=" 0.1 0.1 0.1"
           light="type: hemisphere; color: #fefddd; groundColor: #fefddd; intensity: 1.2"
         ></a-entity>
@@ -572,9 +584,10 @@
         url="marker/pattern-markerY.patt"
       >
         <a-entity
-          obj-model="obj: #yolk_asset_obj; mtl: #yolk_asset_objmtl"
-          scale="0.01 0.01 0.01"
+          gltf-model="#yacth_asset"
+          scale="0.03 0.03 0.03"
           position=" 0.1 0.1 0.1"
+          rotation="0 -180 0"
           light="type: hemisphere; color: #fefddd; groundColor: #fefddd; intensity: 1.2"
         ></a-entity>
       </a-marker>
